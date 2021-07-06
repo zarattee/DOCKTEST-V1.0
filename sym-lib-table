@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Connector)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector.lib)(options "")(descr ""))
+  (lib (name Connector_Generic)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name Connector_Generic_MountingPin)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_Generic_MountingPin.lib)(options "")(descr ""))
+  (lib (name Connector_Generic_Shielded)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_Generic_Shielded.lib)(options "")(descr ""))
+)
